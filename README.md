@@ -6,3 +6,5 @@ The code in this project compiles stock options contract filings and automatical
 The time series chart is aggregated over a couple months.
 
 ![image](https://github.com/user-attachments/assets/528349ca-23fd-4689-8fd4-e8626851964d)
+
+![image](https://github.com/user-attachments/assets/4362225f-e189-45c8-9c58-9c810ddae1fa)
